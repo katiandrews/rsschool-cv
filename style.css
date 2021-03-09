@@ -124,8 +124,18 @@ body {
   line-height: 48px;
 }
 
+.projects-list a {
+  font-weight: bold;
+  color: navy;
+}
+
 .main-footer {
-  margin: 24px 0;
+  padding: 24px 0;
   background-color: #32386a;
   color: white;
+}
+
+.main-footer a {
+  color: white;
+  text-decoration: none;
 }
