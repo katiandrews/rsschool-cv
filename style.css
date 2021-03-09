@@ -113,3 +113,19 @@ body {
 .skills {
   width: 400px;
 }
+
+.projects {
+  margin: 80px 0;
+}
+
+.projects-title {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.main-footer {
+  margin: 24px 0;
+  background-color: #32386a;
+  color: white;
+}
